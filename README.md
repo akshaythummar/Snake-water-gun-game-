@@ -13,7 +13,7 @@ And the Rules are-
     You can play ten matches and last you get wins that you get out of 10.
 
 @Author :
-    - Krishnaku
+    - Krishna kumar
     
 @contributers :
     - Akshay Thummar
